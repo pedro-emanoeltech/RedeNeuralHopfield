@@ -1,11 +1,11 @@
-﻿using RedeNeuralPerceptronDomain.Entity;
-using RedeNeuralPerceptronDomain.Interfaces.Repository;
+﻿using RedeNeuralHopfieldDomain.Entity;
+using RedeNeuralHopfieldDomain.Interfaces.Repository;
 using System;
 using System.Data;
 using System.Data.OleDb;
 
 
-namespace RedeNeuralPerceptronInfras.Service
+namespace RedeNeuralHopfieldInfras.Service
 {
     public class ArquivoDadosRepository : IArquivoDadosRepository
     {

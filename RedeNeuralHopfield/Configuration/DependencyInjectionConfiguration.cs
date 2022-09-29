@@ -1,13 +1,13 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using RedeNeuralPerceptronDomain.Interfaces.Repository;
-using RedeNeuralPerceptronDomain.Interfaces.Services;
-using RedeNeuralPerceptronDomain.Services;
-using RedeNeuralPerceptronInfras.Service;
+using RedeNeuralHopfieldDomain.Interfaces.Repository;
+using RedeNeuralHopfieldDomain.Interfaces.Services;
+using RedeNeuralHopfieldDomain.Services;
+using RedeNeuralHopfieldInfras.Service;
 using System;
 
 
-namespace RedeNeuralPerceptron.Configuration
+namespace RedeNeuralHopfield.Configuration
 {
     public static class DependencyInjectionConfiguration
     {

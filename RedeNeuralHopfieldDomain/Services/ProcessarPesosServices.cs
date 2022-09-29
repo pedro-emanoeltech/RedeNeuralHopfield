@@ -1,9 +1,9 @@
-﻿using RedeNeuralPerceptronDomain.Interfaces.Services;
+﻿using RedeNeuralHopfieldDomain.Interfaces.Services;
 using System;
 using System.Data;
 
 
-namespace RedeNeuralPerceptronDomain.Services
+namespace RedeNeuralHopfieldDomain.Services
 {
     public class ProcessarPesosServices : IProcessarPesosServices
     {

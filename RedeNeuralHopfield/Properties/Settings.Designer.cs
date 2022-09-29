@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RedeNeuralPerceptron.Properties {
+namespace RedeNeuralHopfield.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

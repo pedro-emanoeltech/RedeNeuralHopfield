@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RedeNeuralPerceptronDomain.Entity
+namespace RedeNeuralHopfieldDomain.Entity
 {
    public class Base
     {

@@ -1,6 +1,6 @@
-﻿using RedeNeuralPerceptronDomain.Entity;
-using RedeNeuralPerceptronDomain.Interfaces.Services;
-using RedeNeuralPerceptronDomain.Services;
+﻿using RedeNeuralHopfieldDomain.Entity;
+using RedeNeuralHopfieldDomain.Interfaces.Services;
+using RedeNeuralHopfieldDomain.Services;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Data;
 using System.Windows.Forms;
 
 
-namespace RedeNeuralPerceptron
+namespace RedeNeuralHopfield
 {
     public partial class FrmPrincipal : Form
     {

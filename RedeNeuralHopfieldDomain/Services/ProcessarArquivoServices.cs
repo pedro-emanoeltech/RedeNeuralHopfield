@@ -1,11 +1,11 @@
 ﻿using System.Windows.Forms;
-using RedeNeuralPerceptronDomain.Entity;
+using RedeNeuralHopfieldDomain.Entity;
 using System.IO;
-using RedeNeuralPerceptronDomain.Interfaces.Services;
+using RedeNeuralHopfieldDomain.Interfaces.Services;
 using System.Data;
-using RedeNeuralPerceptronDomain.Interfaces.Repository;
+using RedeNeuralHopfieldDomain.Interfaces.Repository;
 
-namespace RedeNeuralPerceptronDomain.Services
+namespace RedeNeuralHopfieldDomain.Services
 {
     public class ProcessarArquivoServices : IProcessarArquivoServices
     {

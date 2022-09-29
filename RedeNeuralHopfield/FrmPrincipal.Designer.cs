@@ -1,4 +1,4 @@
-﻿namespace RedeNeuralPerceptron
+﻿namespace RedeNeuralHopfield
 {
     partial class FrmPrincipal
     {

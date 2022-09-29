@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RedeNeuralPerceptronDomain.Interfaces.Services
+namespace RedeNeuralHopfieldDomain.Interfaces.Services
 {
     public interface IAprendizagemServices
     {

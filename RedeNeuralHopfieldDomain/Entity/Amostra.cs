@@ -1,7 +1,7 @@
 ﻿
 using System.Collections.Generic;
 
-namespace RedeNeuralPerceptronDomain.Entity
+namespace RedeNeuralHopfieldDomain.Entity
 {
     public class Amostra : Base
     {
